@@ -19,7 +19,7 @@ class Screen extends Component {
             screen: 'LightBox',
             style: {
                 backgroundBlur: 'dark',
-                backgroundColor: 'green',
+                backgroundColor: 'rgba(52, 52, 52, 0.8)',
                 tapBackgroundToDismiss: true
             }
         })
